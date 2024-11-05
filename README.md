@@ -25,10 +25,15 @@ View your score after completing the quiz.
 Click on the Restart button to retake the quiz.
 
 Project Structure
+
 quiz-app/
+
 ├── index.html          # Main HTML file
+
 ├── style.css           # Stylesheet for the app
+
 ├── script.js           # JavaScript for quiz functionality
+
 └── README.md           # Project documentation
 
 
